@@ -1,21 +1,21 @@
-# Exercise Repo 1
+# 這裡只是 git 練習
 
-## Exercise 1
+## 作業一
 
-1. Clone the repo
+1. Clone 原本的 repository。
 
-## Exercise 2
+## 作業二
 
-1. Add a new file named to your SID.
-2. Commit the file
+1. Add 一個新的檔案。
+2. Commit!
 
-## Exercise 3
+## 作業三
 
-1. Create a new branch named to your SID
-2. Checkout to the new branch
-3. Push to remote
+1. 製作一個新的 branch。
+2. Checkout 到這個新的 branch。
+3. Push 到 GitHub。
 
-## Exercise 4
+## 作業四 (下週再來!)
 
 1. Create a new branch named to "merge_test_<your SID>"
 2. Update the file: introduction.txt.
