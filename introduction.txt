@@ -1,5 +1,9 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 005fd135ed45328077c505bc25a1a490ac0fdc81
 My name is Jim Yeh. I was born on a warm, sunny day in May in Peng-Hu, Taiwan. I now live in Taipei, Taiwan, and I go to school at National Chengchi University. I live with my mom, Kate; my brother, Jake; and my Aunt Molly. When I was born, my bother was fifteen-months-old and hid under the table from me. Jake is a sweet kid and he would do anything for me, but like all brothers and sisters we fight like cats and dogs. Sometimes when no one was around, Jake would come up to me and bite my toes for no reason. I still love him but only because he is my brother.
 
 My name is [Annie Huang]. I was born on a warm, sunny day in [Sep.] in [Taipei], [Taiwan]. I now live in [Taipei], [Taiwan], and I go to school at National Chengchi University. I live with my mom, Kate; my brother, Jake; and my Aunt Molly. When I was born, my bother was fifteen-months-old and hid under the table from me. Jake is a sweet kid and he would do anything for me, but like all brothers and sisters we fight like cats and dogs. Sometimes when no one was around, Jake would come up to me and bite my toes for no reason. I still love him but only because he is my brother
@@ -10,6 +14,10 @@ My name is ZI YU HUANG. I was born on a warm, sunny day in March in Taipai, Taiw
 
 My name is Yen-lung Tsai. I was born on a warm, sunny day in December. I now live in Taipei, Taiwan, and I go to school at National Chengchi University. I live with my mom, Kate; my brother, Jake; and my Aunt Molly. When I was born, my bother was fifteen-months-old and hid under the table from me. Jake is a sweet kid and he would do anything for me, but like all brothers and sisters we fight like cats and dogs. Sometimes when no one was around, Jake would come up to me and bite my toes for no reason. I still love him but only because he is my brother.
 
+=======
+My name is Haha. I was born on a warm, sunny day in June in Taipei, Taiwan. I now live in Taipei, Taiwan, and I go to school at National Chengchi University. I live with my mom, Kate; my brother, Jake; and my Aunt Molly. When I was born, my bother was fifteen-months-old and hid under the table from me. Jake is a sweet kid and he would do anything for me, but like all brothers and sisters we fight like cats and dogs. Sometimes when no one was around, Jake would come up to me and bite my toes for no reason. I still love him but only because he is my brother.
+=======
+My name is Steven Wang. I was born on a warm, sunny day in April in TP, TW. I now live in TP, TW, and I go to school at National Chengchi University. I live with my mom, Kate; my brother, Jake; and my Aunt Molly. When I was born, my bother was fifteen-months-old and hid under the table from me. Jake is a sweet kid and he would do anything for me, but like all brothers and sisters we fight like cats and dogs. Sometimes when no one was around, Jake would come up to me and bite my toes for no reason. I still love him but only because he is my brother.
 
 =======
 My name is HSUNHSUN. I was born on a warm, sunny day in January in TAIPEI. I now live in MJ, and I go to school at National Chengchi University. I live with my mom, Kate; my brother, Jake; and my Aunt Molly. When I was born, my bother was fifteen-months-old and hid under the table from me. Jake is a sweet kid and he would do anything for me, but like all brothers and sisters we fight like cats and dogs. Sometimes when no one was around, Jake would come up to me and bite my toes for no reason. I still love him but only because he is my brother.
