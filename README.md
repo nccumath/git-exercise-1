@@ -1,4 +1,4 @@
-# Exercise Repo 1
+# 這裡只是 git 練習
 
 [Hackpad Notebook](https://nccumath.hackpad.com/Git-Tutorial-4ItJW8VSa5V)
 
@@ -6,20 +6,30 @@
 
 1. Clone the repo
 2. Check status
+=======
+## 作業一
 
-## Exercise 2
+1. Clone 原本的 repository。
 
-1. Add a new file named to your SID.
-2. Commit the file
+## 作業二
 
-## Exercise 3
+1. Add 一個新的檔案。
+2. Commit!
+
+## 作業三
+
 
 1. Create a new branch named to your SID
 2. Checkout to the new branch
 3. Update introduction.txt
 4. Commit
+=======
+1. 製作一個新的 branch。
+2. Checkout 到這個新的 branch。
+3. Push 到 GitHub。
 
-## Exercise 4
+
+## 作業四 (下週再來!)
 
 1. Push the branch in exercise 3 to remote
 
